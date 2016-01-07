@@ -11,6 +11,7 @@ public class SecurityGitDemo {
 	}
 
 	public static int add(int a, int b) {
+		System.out.println("Entered to add method");
 		return a + b;
 	}
 }
