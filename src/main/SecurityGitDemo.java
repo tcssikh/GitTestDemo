@@ -6,7 +6,7 @@ public class SecurityGitDemo {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		int a = 300, b = 300;
+		int a = 100, b = 100;
 		System.out.println("sum of a and b is" + add(a, b));
 	}
 
